@@ -15,6 +15,13 @@ server by the scripts, and nothing comes bundled. So that computer needs, once: 
 (3.9 or newer), the **openpyxl** library, and on Windows or Linux **LibreOffice**. Copy the
 commands for your system.
 
+Transcripts - live conversations from any AI Tools. Granola would be preferred - ensure Granola plugin is enabledin Chrome as mentioned below - 
+
+<img width="3426" height="120" alt="image" src="https://github.com/user-attachments/assets/e3622bbe-c314-4a62-8d0f-eec98999b240" />
+
+
+
+
 ### Mac
 
 Open **Terminal** and run these two lines. If Python is missing, the first one offers to install
