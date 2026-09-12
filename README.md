@@ -12,7 +12,7 @@ decisions taken versus deferred, open questions and risks.
 
 Transcripts - live conversations from any AI Tools. Granola would be preferred.
 
-Ensure Granola plugin is enabledin Chrome as mentioned below - 
+Ensure Granola plugin is enabledin Chrome as mentioned below - (in the address line)
 
 <img width="3426" height="120" alt="image" src="https://github.com/user-attachments/assets/e3622bbe-c314-4a62-8d0f-eec98999b240" />
 
