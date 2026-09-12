@@ -8,17 +8,28 @@ decisions taken versus deferred, open questions and risks.
 
 ---
 
+## Transcripts
+
+Transcripts - live conversations from any AI Tools. Granola would be preferred.
+
+Ensure Granola plugin is enabledin Chrome as mentioned below - 
+
+<img width="3426" height="120" alt="image" src="https://github.com/user-attachments/assets/e3622bbe-c314-4a62-8d0f-eec98999b240" />
+
+Click on the Extensions box highlighted above in the image - in the choices select <b>Manage Extensions </b>
+
+In the following screen, in search extension - type 'Granola Companion' and enable the settings 
+
+<img width="3142" height="284" alt="image" src="https://github.com/user-attachments/assets/7d6c3e26-8037-4a23-a229-a7722aafcd88" />
+
+
+
 ## What the computer needs
 
 Claude runs this plugin's scripts on the computer where it is running — nothing is sent to a
 server by the scripts, and nothing comes bundled. So that computer needs, once: **Python 3**
 (3.9 or newer), the **openpyxl** library, and on Windows or Linux **LibreOffice**. Copy the
 commands for your system.
-
-Transcripts - live conversations from any AI Tools. Granola would be preferred - ensure Granola plugin is enabledin Chrome as mentioned below - 
-
-<img width="3426" height="120" alt="image" src="https://github.com/user-attachments/assets/e3622bbe-c314-4a62-8d0f-eec98999b240" />
-
 
 
 
