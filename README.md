@@ -82,7 +82,7 @@ the free tier.
 
 1. Open the **Claude desktop app**. If you are in Cowork, open the **Cowork** tab first.
 2. In the left sidebar, open **Customize**, then the **Plugins** tab.
-3. Choose **Add from a repository** and paste `https://github.com/AnanthGop/meeting-notes`.
+3. Choose **Add from a repository** and paste `https://github.com/ananth-goonj/meeting-notes`.
 4. Install the **goonj-meetings-skill** plugin.
 
 ### In the terminal (Claude Code CLI)
@@ -104,7 +104,7 @@ browser. After that, register this repository and install the plugin — two com
 folder:
 
 ```bash
-claude plugin marketplace add AnanthGop/meeting-notes
+claude plugin marketplace add ananth-goonj/meeting-notes
 ```
 
 ```bash
@@ -112,7 +112,7 @@ claude plugin install goonj-meetings-skill@goonj-skills
 ```
 
 The plugin loads the next time you start `claude`. (Inside a running session the same two
-commands work with a leading slash: `/plugin marketplace add AnanthGop/meeting-notes` and
+commands work with a leading slash: `/plugin marketplace add ananth-goonj/meeting-notes` and
 `/plugin install goonj-meetings-skill@goonj-skills`; the session then reloads it for you.)
 
 ## Set up the glossary (one time, per transcripts folder)
@@ -174,7 +174,7 @@ The workbook is written next to the transcript as
 1. कंप्यूटर पर **Python 3** और **openpyxl** होना चाहिए (Windows पर `.rtf`/`.docx` के लिए
    **LibreOffice** भी)। कैसे लगाएँ, ऊपर *What the computer needs* में देखें।
 2. Claude डेस्कटॉप ऐप में **Customize → Plugins → Add from a repository** से यह प्लगइन जोड़ें,
-   या टर्मिनल में `claude plugin marketplace add AnanthGop/meeting-notes` और फिर
+   या टर्मिनल में `claude plugin marketplace add ananth-goonj/meeting-notes` और फिर
    `claude plugin install goonj-meetings-skill@goonj-skills` चलाएँ।
 3. अपने ट्रांसक्रिप्ट फ़ोल्डर में `meeting-report-glossary.md` फ़ाइल रखें (टेम्पलेट ऊपर बताए पथ पर है)।
 4. फिर बस इतना कहें: "3 सितंबर की Leadership मीटिंग की रिपोर्ट बना दीजिए"।
