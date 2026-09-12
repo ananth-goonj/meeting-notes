@@ -22,6 +22,8 @@ In the following screen, in search extension - type 'Granola Companion' and enab
 
 <img width="3142" height="284" alt="image" src="https://github.com/user-attachments/assets/7d6c3e26-8037-4a23-a229-a7722aafcd88" />
 
+Open Granola - Copy the entire transcript which includes the names of the participants into a text file and save it. Attach the file to the program and run the skill. Output will be created in an excel file.
+
 
 
 ## What the computer needs
