@@ -255,9 +255,3 @@ third-party marketplaces; a user can switch it on once under `/plugin` → **Mar
 
 Never commit a completed `meeting-report-glossary.md`, a transcript, or a generated report.
 `.gitignore` blocks all three, but check before you push.
-
-## Reusing this outside Goonj
-
-Nothing organisation-specific lives in the skill — names, workstreams, object codes and
-thresholds all sit in the glossary. Another organisation can use this by writing their own
-glossary and changing nothing else.
